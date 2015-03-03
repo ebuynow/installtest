@@ -1,2 +1,2 @@
-@import https://github.com/ebuynow/warehouseplus-ioncube-trial.git
-@import https://github.com/ebuynow/segment.com-magento-modman.git
+@shell modman clone https://github.com/ebuynow/warehouseplus-ioncube-trial.git
+@shell modman clone https://github.com/ebuynow/segment.com-magento-modman.git
